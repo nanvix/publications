@@ -4,6 +4,12 @@ Publications on Nanvix
 Conference Papers
 ------------------
 
+- [[PDF](https://hal.archives-ouvertes.fr/hal-02151274)] Pedro Henrique
+Penna, Davidson Francis, João Souto. The Hardware Abstraction Layer of Nanvix
+for the Kalray MPPA-256 Lightweight Manycore Processor. Conférence
+d'Informatique en Parallélisme, Architecture et Système, Jun 2019, Anglet,
+France. hal-02151274
+
 - [[PDF](https://hal.archives-ouvertes.fr/hal-01986366)] Pedro Henrique
 Penna, Matheus Souza, Emmanuel Junior, João Souto, Márcio Castro, et al..
 RMem: An OS Service for Transparent Remote Memory Access in Lightweight

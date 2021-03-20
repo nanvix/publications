@@ -4,6 +4,11 @@ Publications on Nanvix
 Conference Papers
 ------------------
 
+- [[PDF](https://hal.archives-ouvertes.fr/hal-03118368)] Pedro Henrique Penna, 
+Lucas Maciel, João Vicente Souto, Davidson Francis Lima, Márcio Castro, 
+François Broquedis, Henrique Freitas, Jean-François Méhaut. 
+IEEE Embedded Systems Letters, Early Access, Nov 2020. hal-03118368
+
 - [[PDF](https://hal.archives-ouvertes.fr/hal-02975094)] João Uller, João
 Souto, Pedro Henrique Penna, Márcio Castro, Henrique Cota Freitas,
 Jean-François Méhaut. Enhancing Programmability in NoC-Based Lightweight

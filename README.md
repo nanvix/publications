@@ -4,6 +4,13 @@ Publications on Nanvix
 Conference Papers
 ------------------
 
+- [[PDF](https://hal.archives-ouvertes.fr/hal-02975094)] João Uller, João
+Souto, Pedro Henrique Penna, Márcio Castro, Henrique Cota Freitas,
+Jean-François Méhaut. Enhancing Programmability in NoC-Based Lightweight
+Manycore Processors with a Portable MPI Library. WSCAD 2020 - XXI Simpósio em
+Sistemas Computacionais de Alto Desempenho. Oct 2020, Online, Brazil.
+hal-02975094
+
 - [[PDF](https://hal.archives-ouvertes.fr/hal-02297637)] Pedro Henrique Penna,
 João Souto, Davidson Lima, Márcio Castro, François Broquedis, et al.. On the
 Performance and Isolation of Asymmetric Microkernel Design for Lightweight

@@ -4,6 +4,12 @@ Publications on Nanvix
 Conference Papers
 ------------------
 
+- [[PDF](https://hal.archives-ouvertes.fr/hal-02297637)] Pedro Henrique Penna,
+João Souto, Davidson Lima, Márcio Castro, François Broquedis, et al.. On the
+Performance and Isolation of Asymmetric Microkernel Design for Lightweight
+Manycores. SBESC 2019 - IX Brazilian Symposium on Computing Systems
+Engineering, Nov 2019, Natal, Brazil. hal-02297637
+
 - [[PDF](https://hal.archives-ouvertes.fr/hal-02151274)] Pedro Henrique
 Penna, Davidson Francis, João Souto. The Hardware Abstraction Layer of Nanvix
 for the Kalray MPPA-256 Lightweight Manycore Processor. Conférence

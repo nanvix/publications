@@ -4,6 +4,13 @@ Publications on Nanvix
 Conference Papers
 ------------------
 
+- [[PDF](https://hal.archives-ouvertes.fr/hal-01986366)] Pedro Henrique
+Penna, Matheus Souza, Emmanuel Junior, João Souto, Márcio Castro, et al..
+RMem: An OS Service for Transparent Remote Memory Access in Lightweight
+Manycores. MultiProg 2019 - 25th International Workshop on Programmability
+and Architectures for Heterogeneous Multicores, Jan 2019, Valencia, Spain.
+pp.1-16. hal-01986366
+
 - [[PDF](https://hal.archives-ouvertes.fr/hal-01907003)] Pedro Henrique Penna,
 Matheus Souza, Emmanuel Podestá Júnior, Bruno Nascimento, Márcio Castro, et
 al.. An OS Service for Transparent Remote Memory Accesses in NoC-Based

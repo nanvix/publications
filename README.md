@@ -1,6 +1,14 @@
 Publications on Nanvix
 =======================
 
+Journal Papers
+---------------
+
+- Pedro Henrique Penna, João Vicente Souto João Fellipe Uller, Márcio Castro,
+  Henrique Freitas, Jean-François Méhaut. Inter-Kernel Communication Facility
+of a Distributed Operating System for NoC-Based Lightweight Manycores. Journal
+of Parallel and Distributed Computing, Volume 154, August 2021, Pages 1-15.
+
 Conference Papers
 ------------------
 

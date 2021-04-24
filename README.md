@@ -9,15 +9,15 @@ Journal Papers
 of a Distributed Operating System for NoC-Based Lightweight Manycores. Journal
 of Parallel and Distributed Computing, Volume 154, August 2021, Pages 1-15.
 
-Conference Papers
-------------------
-
 - [[PDF](https://hal.archives-ouvertes.fr/hal-03118368)] Pedro Henrique Penna, 
 Lucas Maciel, João Vicente Souto, Davidson Francis Lima, Márcio Castro, 
 François Broquedis, Henrique Freitas, Jean-François Méhaut. 
 Co-Designing Clusters of Lightweight Manycores and Asymmetric Operating
 System Kernels. IEEE Embedded Systems Letters, Early Access, Nov 2020. 
 hal-03118368
+
+Conference Papers
+------------------
 
 - [[PDF](https://hal.archives-ouvertes.fr/hal-02975094)] João Uller, João
 Souto, Pedro Henrique Penna, Márcio Castro, Henrique Cota Freitas,
